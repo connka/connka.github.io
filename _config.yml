@@ -3,28 +3,28 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Kat Connolly
+title: Software Engineer
+email: katherine.d.connolly@gmail.com
+website: https://katherineconnolly.com
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: kate_kat_jpeg
+github_username:  connka
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: chillwildlife
-linkedin_username: jameswgrant
+linkedin_username: connollykd
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hey, I'm Kat. I'm currently working as a software engineer for Neo Financial in Calgary, Alberta. In January 2019 I graduated from Lighthouse Labs' Web Development Bootcamp, and then spent 7 months helping them build their presence in Calgary. But now it is time to get my hands dirty and write my own code.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
