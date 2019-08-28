@@ -4,7 +4,7 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Kat Connolly
-title: Software Engineer
+title: Web Developer
 email: katherine.d.connolly@gmail.com
 website: https://katherineconnolly.com
 
@@ -24,7 +24,7 @@ linkedin_username: in/connollykd
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey, I'm Kat. I'm currently working as a software engineer for Neo Financial in Calgary, Alberta. In January 2019 I graduated from Lighthouse Labs' Web Development Bootcamp, and then spent 7 months helping them build their presence in Calgary. But now it is time to get my hands dirty and write my own code. In my spare time I volunteer with a local group called Chic Geek and make things out of leather and fiber. 
+  Hey, I'm Kat. I'm currently working as a software engineer for Neo Financial in Calgary, Alberta. In January 2019 I graduated from Lighthouse Labs' Web Development Bootcamp, and then spent 7 months helping them build their presence in Calgary. But now it is time to get my hands dirty and write my own code. I am passionate about tech accessibilty and education. In my spare time I volunteer with a local group called Chic Geek so I can spread that love as far as possible. 
 
   I am most skilled in: <mark>React</mark> and <mark>HotDogs</mark>
 
@@ -40,11 +40,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my software engineering and tech education some of my other interests and hobbies are:
+   - Leather Work
+   - Fiber Art
+   - Video Editing
+   - Eating Hot Dogs
 
 # Footer
 footer_show_references: true
