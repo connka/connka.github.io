@@ -24,7 +24,10 @@ linkedin_username: in/connollykd
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey, I'm Kat. I'm currently working as a software engineer for Neo Financial in Calgary, Alberta. In January 2019 I graduated from Lighthouse Labs' Web Development Bootcamp, and then spent 7 months helping them build their presence in Calgary. But now it is time to get my hands dirty and write my own code. I am passionate about tech accessibilty and education. In my spare time I volunteer with a local group called Chic Geek so I can spread that love as far as possible. 
+  Hey, I'm Kat. I'm currently working as a software engineer for Neo Financial in Calgary, Alberta. 
+  In January 2019 I graduated from Lighthouse Labs' Web Development Bootcamp, and then spent 7 months helping them build their presence in Calgary. 
+  But now it is time to get my hands dirty and write my own code. I am passionate about tech accessibilty and education. 
+  In my spare time I volunteer with a local group called Chic Geek so I can spread that passion as far as possible. 
 
   I am most skilled in: <mark>React</mark> and <mark>HotDogs</mark>
 
