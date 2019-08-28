@@ -5,18 +5,3 @@
 
   description: | # this will include new lines to allow paragraphs
   
-  - layout: middle
-  name: University of Calgary
-  dates: 2014 - 2015
-  qualification: Masters of Public Policy
-
-  description: | # this will include new lines to allow paragraphs
-
-  - layout: right
-  name: University of King's College
-  dates: 2008-2014
-  qualification: BA(H) Combined Honours in Environmental Sustainability and International Development
-
-  description: | # this will include new lines to allow paragraphs
-  
-  
